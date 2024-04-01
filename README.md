@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Burov96
 - 👀 I’m interested in Front-end development, besides that im Molecular Biologist.
-- 🌱 I’m currently learning JS and Ruby.
-- 💞️ I’m looking to collaborate on future projects, and seeking employment.
 - 📫 Reach me at <a href="https://www.linkedin.com/in/teodor-burov-b5ba12bb/">LinkedIn</a>, <a href="mailto:burov96@gmail.com">Gmail</a> or here, at GitHub.
 
 <!---
